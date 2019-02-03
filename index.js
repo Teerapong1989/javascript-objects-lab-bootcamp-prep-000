@@ -21,3 +21,5 @@ function deleteFromObjectByKey(object, key){
   delete newOj[key]
   return newOj
 }
+
+function 
